@@ -1,3 +1,4 @@
+// this file is about the Student interaction page using type script 
 import { network } from "hardhat";
 import readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
